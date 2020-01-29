@@ -1,0 +1,41 @@
+**************************** SUMINISTROS ***********************************
+
+CANTIDAD	DISPONIBILIDAD	            DESCRIPCION			
+  200		    100			LAPIZ DE PAPEL				
+  150		    75			BOLIGRAFO AZUL				
+  150		    75			BOLIGRAFO ROJO				
+  150		    30			BOLIGRAFO NEGRO				
+  100		    60			BORRADOR BLANCO				
+  50		    32			SACAPUNTAS DE METAL			
+  350		    120			PAPEL MINISTRO				
+  150		    85			CARPETA MANILA				
+  25		    15			CINTA ADHESIVA				
+  500		    175			HOJA CUADRICULADA			
+  500		    200			HOJA DE 1 LINEA				
+  500		    315			HOJA DE 2 LINEAS			
+  500		    350			HOJA DE 4 LINEAS			
+  500		    130			FORMATO DE PAPEL BOND			
+  150		    55			FORMATO DE CARTULINA A4			
+  150		    100			FORMATO DE CARTULINA A3			
+  50		    14			CD					
+  50		    7			CD RW					
+  60		    30			MARCADOR ACRILICO AZUL			
+  60		    25			MARCADOR ACRILICO NEGRO			
+  60		    48			MARCADOR ACRILICO ROJO			
+  40		    12			CUADERNO 100 HOJAS UNIV. CUADROS	
+  40		    20			CUADERNO 100 HOJAS UNIV. 1 LINEA	
+  40		    24			CUADERNO 100 HOJAS UNIV. 2 LINEAS	
+  40		    26			CUADERNO 100 HOJAS UNIV. 4 LINEAS	
+  25		    18			TIJERA					
+  150		    45			SOBRE MANILA				
+		
+------------------------------------EQUIPOS----------------------------------
+
+
+CANTIDAD	DISPONIBILIDAD	            DESCRIPCION				
+  15		    12			COMPUTADORAS
+  3		    2			IMPRESORAS
+  2		    1			FOTOCOPIADORAS
+  18		    15			AUDÍFONOS 				
+  18		    16			MICRÓFONO				
+

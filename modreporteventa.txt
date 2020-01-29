@@ -1,0 +1,26 @@
+
+***************** REPORTE ******************
+
+	     INGRESOS PRODUCIDOS
+
+-----------SUMINISTROS/PAPELERIA-----------
+A LA SEMANA 1			$ 48
+A LA SEMANA 2			$ 53
+A LA SEMANA 3			$ 61
+A LA SEMANA 4			$ 58
+
+   *TOTAL DE INGRESOS*		$ 220
+
+------------ALQUILER DE EQUIPOS------------
+A LA SEMANA 1			$ 73
+A LA SEMANA 2			$ 70
+A LA SEMANA 3			$ 69
+A LA SEMANA 4			$ 72
+
+   *TOTAL DE INGRESOS*		$ 284
+
+-------------------------------------------
+   *INGRESOS SUMINISTROS*	$ 220  
+   *INGRESOS DE EQUIPOS*	$ 284
+   
+   *INGRESOS TOTALES*		$ 504

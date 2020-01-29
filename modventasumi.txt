@@ -1,0 +1,39 @@
+
+************************* SUMINISTROS ***************************
+
+CANTIDAD	            DESCRIPCION			PRECIO/UNI.		
+  200		LAPIZ DE PAPEL				  $ 0.30		
+  150		BOLIGRAFO AZUL				  $ 0.40		
+  150		BOLIGRAFO ROJO				  $ 0.40		
+  150		BOLIGRAFO NEGRO				  $ 0.40		
+  100		BORRADOR BLANCO				  $ 0.40		
+  50		SACAPUNTAS DE METAL			  $ 0.45		
+  350		PAPEL MINISTRO				  $ 0.10		
+  150		CARPETA MANILA				  $ 0.30		
+  25		CINTA ADHESIVA				  $ 0.65		
+  500		HOJA CUADRICULADA			  $ 0.10		
+  500		HOJA DE 1 LINEA				  $ 0.10		
+  500		HOJA DE 2 LINEAS			  $ 0.10		
+  500		HOJA DE 4 LINEAS			  $ 0.10		
+  500		FORMATO DE PAPEL BOND			  $ 0.10		
+  150		FORMATO DE CARTULINA A4			  $ 0.10		
+  150		FORMATO DE CARTULINA A3			  $ 0.10		
+  50		CD					  $ 0.60		
+  50		CD RW					  $ 0.70		
+  60		MARCADOR ACRILICO AZUL			  $ 0.40		
+  60		MARCADOR ACRILICO NEGRO			  $ 0.40		
+  60		MARCADOR ACRILICO ROJO			  $ 0.40		
+  40		CUADERNO 100 HOJAS UNIV. CUADROS	  $ 1.50		
+  40		CUADERNO 100 HOJAS UNIV. 1 LINEA	  $ 1.50		
+  40		CUADERNO 100 HOJAS UNIV. 2 LINEAS	  $ 1.50		
+  40		CUADERNO 100 HOJAS UNIV. 4 LINEAS	  $ 1.50		
+  25		TIJERA					  $ 0.85		
+  150		SOBRE MANILA				  $ 0.25		
+		
+--------------------------OTROS SERVICIOS------------------------------					
+		ANILLADO				  $1.50			
+		COPIA A COLOR				  $0.10
+		COPIA A B/N				  $0.05
+		IMPRESION A COLOR			  $0.15
+		IMPRESION A B/N				  $0.10
+		QUEMA DE CD				  $0.75
